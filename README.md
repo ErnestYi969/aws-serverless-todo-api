@@ -51,3 +51,8 @@ Created using AWS Console.
 - DynamoDB CRUD operations
 - API Gateway integration
 - CloudWatch debugging
+## Demo
+
+GET /todos response:
+
+![API Response](demo.png)
